@@ -1,6 +1,6 @@
 {
     "name": "Marin-MD",
-    "version": "3.5.4",
+    "version": "2.10.18",
     "description": "Bot WhatsApp Multi Device",
     "depecrated": false,
     "main": "index.js",
@@ -36,8 +36,8 @@
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
-        "@adiwajshing/baileys-md": "github:ilmanhdyt/baileys#multi-device",
-        "@bochilteam/scraper": "github:bochilteam/scraper",
+        "@adiwajshing/baileys-md": "4.0.1",
+        "@bochilteam/scraper": "2.0.0",
         "awesome-phonenumber": "^2.64.0",
         "axios": "^0.24.0",
         "cfonts": "^2.10.0",
